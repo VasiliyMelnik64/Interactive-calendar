@@ -8,6 +8,6 @@ Capabilities:
 
 Calendar consist of three blocks:
 
-1 - Form with settings
-2 - Block with code
-3 - Calendar preview
+- form with settings;
+- block with code;
+- calendar preview.
